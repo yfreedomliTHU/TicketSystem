@@ -1,0 +1,4 @@
+代码在the code of Ticketsystem文件夹下，可运行程序在win32文件夹中
+数据库路径默认C盘根目录，请将TicketSystemDB.db文件复制到C盘后再打开程序，谢谢。
+默认管理员密码和账号均为admin
+win10权限问题，请右键以管理员身份运行
